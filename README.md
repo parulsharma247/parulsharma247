@@ -37,36 +37,50 @@ I've always been passionate about Maths and Science how it can be applied in rea
 
 
 ## Stack I work with
-<h3>Coding Languages</h3>
+<h4>Coding Languages</h4>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="50" src=""></code>
 
-<h3> Data Science Libraries</h3>
+<h4> Data Science Libraries</h4>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras-text.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 
-<h3>Data Visualization</h3>
+<h4>Data Visualization</h4>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/AwesomeLogos/logomono/gh-pages/logos/tableau-software.svg"></code>
 
-<h3> Backend </h3>
+<h3> Backend Technologies</h3>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 
+<h4>FrontEnd Technologies</h4>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
+
 <h3>IDE</h3>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/pycharm.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/intellij-idea-1.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/uiwjs/file-icons/master/icon/sublime.svg"></code>
+
+
 
 <h3>Model Deployment </h3>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pivotalio/pivotalio-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 <h3> Databases </h3>
@@ -78,12 +92,8 @@ I've always been passionate about Maths and Science how it can be applied in rea
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-
-
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
 
 
