@@ -113,12 +113,15 @@ You have finally discovered my Github profile, so let's get connected!
   
 <br>
 <br>
+[![Github](https://img.shields.io/github/followers/parulsharma247?label=Follow&style=social)](https://github.com/parulsharma247)
+[![Linkedin](https://img.shields.io/badge/-Parul%20Sharma-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/parulsharma247/)](https://www.linkedin.com/in/parulsharma247/)
+[![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sparul247@gmail.com)
+
+
+<!--
 <a href="https://www.linkedin.com/in/parulsharma247/">	
   <img align="center" alt="Parul Sharma | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>
-[![Github](https://img.shields.io/github/followers/parulsharma247?label=Follow&style=social)](https://github.com/parulsharma247)
-
-<!--
 <a href="https://medium.com/@parulsharma247">	
   <img align="center" alt="Parul Sharma | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
