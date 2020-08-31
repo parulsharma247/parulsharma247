@@ -118,7 +118,7 @@ You have finally discovered my Github profile, so let's get connected!
   <img align="center" alt="Parul Sharma | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
 </a>
 <a href="https://www.github.com/in/parulsharma247/">	
-  <img align="center" alt="Parul Sharma | LinkdeIn" width="40px" height="25" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />	
+  <img align="center" alt="Parul Sharma | LinkdeIn" width="45px" height="35" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />	
 </a>
 <a href="https://www.kaggle.com/parulsharma247">	
   <img align="center" alt="Parul Sharma | Kaggle" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />	
