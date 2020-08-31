@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/-Mail%20Me-blue?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:sparul247@gmail.com)
 
 
-
 ## About me 
-I love to play with numbers being always Mathematics as favourite subject , that's the reason he is passionate about Data Science & want to solve real world complex problem.
+I love to play with numbers being always Mathematics as favourite subject , that's the reason I am passionate about Data Science & want to solve real world complex problems.
 
-I've always been passionate about Maths and Science how it can be applied in real life problems. 
+I've always been passionate about Maths and Science, and how it can be applied in real life problems. 
+
+I have good knowledge of Statistical Modeling, Machine Learning algorithms, Deep Learning algorithms, OpenCV and Apache Spark.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulsharma247" alt="blurred-machine" /> </p>
 
@@ -38,9 +39,10 @@ I've always been passionate about Maths and Science how it can be applied in rea
 
 ## Stack I work with
 <h4>Coding Languages</h4>
+<code><img height="50" src=""></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="50" src=""></code>
+
 
 <h4> Data Science Libraries</h4>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
@@ -75,7 +77,7 @@ I've always been passionate about Maths and Science how it can be applied in rea
 
 
 
-<h3>Model Deployment </h3>
+<h3>Cloud</h3>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
@@ -93,9 +95,6 @@ I've always been passionate about Maths and Science how it can be applied in rea
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-
-
-
 
 ### fact about Data Science 
 
@@ -116,7 +115,10 @@ You have finally discovered my Github profile, so let's get connected!
 <br>
 <a href="https://www.linkedin.com/in/parulsharma247/">	
   <img align="center" alt="Parul Sharma | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
-</a>	
+</a>
+[![Github](https://img.shields.io/github/followers/parulsharma247?label=Follow&style=social)](https://github.com/parulsharma247)
+
+<!--
 <a href="https://medium.com/@parulsharma247">	
   <img align="center" alt="Parul Sharma | Medium" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />	
 </a>	
@@ -127,6 +129,8 @@ You have finally discovered my Github profile, so let's get connected!
 <a href="https://www.instagram.com/parulsharma247">	
   <img align="center" alt="Parul Sharma | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
 </a>
+-->
+
 <br>
 <br>
 !! Happy Coding !!
