@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ## About me 
-I love to play with numbers being always Mathematics as favourite subject , that's the reason I am passionate about Data Science & want to solve real world complex problems.
+I love Data Science and every day I am applying/learning to apply the principles of Data Science, Analytics & Business Intelligence in solving problems.
 
 I've always been passionate about Maths and Science, and how it can be applied in real life problems. 
 
