@@ -39,9 +39,8 @@ I have good knowledge of Statistical Modeling, Machine Learning algorithms, Deep
 
 ## Stack I work with
 <h4>Coding Languages</h4>
-<code><img height="50" src=""></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 
 <h4> Data Science Libraries</h4>
