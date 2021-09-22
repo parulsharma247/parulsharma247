@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Parul Sharma <br <h3 align="center">(A Passionate Data Scientist with good knowledge of Marketing Automation ) </h3></h1>
+<h1 align="center">Hi 👋, I'm Parul Sharma <br /> <h3 align="center">(A Passionate Data Scientist with good knowledge of Marketing Automation ) </h3></h1>
 
 	
 [![Github](https://img.shields.io/github/followers/parulsharma247?label=Follow&style=social)](https://github.com/parulsharma247)
